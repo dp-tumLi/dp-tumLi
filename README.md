@@ -13,7 +13,7 @@
 Open-source projects, novel control frameworks, learning-enhanced planning, or anything that pushes safe, reliable robot autonomy forward. I'm always up for a good discussion on bridging model-based control with learning!
 
 📫 **Reach me:**  
-Feel free to connect via [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/yu-li-730957240/) or open an issue in one of my repos.
+Feel free to connect via [LinkedIn](https://www.linkedin.com/in/yu-li-730957240/) or open an issue in one of my repos.
 
 ---
 
